@@ -1,0 +1,8 @@
+{
+  "name": "Vertex AI Multimodal Demo",
+  "description": "Una demostración técnica de capacidades multimodales usando modelos Gemini y Veo, diseñada para conferencias y presentaciones.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
